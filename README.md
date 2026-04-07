@@ -1,0 +1,2 @@
+# ScriptsTab
+Plant Brainrot Simulator
